@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React test change branch this is anotehr test (this stuff should be pulled into development branch)
+          Learn React test change branch this is anotehr this stuff should be pulled
         </a>
       </header>
     </div>
