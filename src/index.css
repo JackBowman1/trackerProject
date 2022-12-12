@@ -16,6 +16,7 @@ body{
   border: 2px solid steelblue;
   padding: 30px;
   border-radius: 8px;
+  
 }
 
 .header {
@@ -39,6 +40,15 @@ body{
   font-family: inherit;
 }
 
+.empty-task{
+  background-color: dodgerblue;
+  color: white;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+  text-align: center;
+  border-color: 6px solid blue;
+}
 .btn:focus {
   outline: none;
 }
